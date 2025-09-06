@@ -11,7 +11,7 @@
 
 **🚀 Real-time spam detection using traditional machine learning with dual deployment interfaces**
 
-[📖 Documentation](#-table-of-contents) • [🚀 Quick Start](#-quick-start) • [🌐 Deployment](#-deployment-guide) • [💡 Usage](#-usage-examples) • [🤝 Contributing](#-contributing)
+[📖 Documentation](#-table-of-contents) • [🚀 Quick Start](#-quick-start) • [🌐 Deployment](#-deployment-guide) • [💡 Usage](#-usage-examples) 
 
 </div>
 
@@ -58,14 +58,6 @@ This project implements a **production-ready spam detection system** using tradi
 - [💡 Usage Examples](#-usage-examples)
 - [🌐 Deployment Guide](#-deployment-guide)
 - [📊 Model Performance](#-model-performance)
-- [🔧 Configuration](#-configuration)
-- [📈 Exploratory Data Analysis](#-exploratory-data-analysis)
-- [🛠️ Troubleshooting](#️-troubleshooting)
-- [🚀 Best Practices](#-best-practices)
-- [🔮 Future Enhancements](#-future-enhancements)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-
 ---
 
 ## 🏗️ Model Architecture
